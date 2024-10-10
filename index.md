@@ -2,9 +2,17 @@
 
 ## List of things what you will find here
 - A picture of patriotic person
-- Link to my Github page'
+- Link to my Github page
 - Me testing markdown language
 - and some relevant information :shipit:
+
+### What i learned from this assigment
+- How to use Github markdown language
+- Headers
+- Lists
+- Alerts
+- [Links](https://youtu.be/6n3pFFPSlW4?si=ArmEHNH5fql8RERa)
+- Images
 
 > [!IMPORTANT]
 > Testing alerts
