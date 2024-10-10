@@ -6,6 +6,7 @@
 - Me testing markdown language
 - and some relevant information :shipit:
 
+website doesnt support github alerts, alerts work only in document!
 > [!NOTE]
 > Testing alerts
 
@@ -22,12 +23,16 @@
 ![Link](https://github.com/Nilssoni/static-website/raw/main/spurdo_sissi.jpg)
 
 Some basic Git commands are:
+1. Basic Git commands
 ```
 git init
 git add <file-name>
 git add .
 git commit -m "Your commit message"
 git log
+```
+2. Branching and Merging
+```
 git branch <branch-name>
 git checkout <branch-name>
 git checkout -b <branch-name>
